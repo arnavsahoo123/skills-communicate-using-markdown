@@ -5,10 +5,12 @@
 ##### THIS IS THE FIFTH LARGEST ONE
 ###### THIS IS THE SIXTH LARGEST ONE
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
 
 
 
-This edit was to test the different sizes of headers available in GitHub.
+
+This edit was to test the different sizes of headers available in GitHub.The next is for images.
