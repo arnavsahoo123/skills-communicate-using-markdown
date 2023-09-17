@@ -7,10 +7,18 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
 
 
 
-This edit was to test the different sizes of headers available in GitHub.The next is for images.
+This edit was to test the different sizes of headers available in GitHub.The next is for images.It has code now as well.
